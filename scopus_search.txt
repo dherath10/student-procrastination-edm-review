@@ -1,0 +1,26 @@
+TITLE-ABS-KEY(
+(
+"academic procrastination"
+OR procrastination
+)
+AND
+(
+student*
+OR learner*
+OR undergraduate*
+OR university student*
+)
+AND
+(
+"machine learning"
+OR "deep learning"
+OR "educational data mining"
+OR "learning analytics"
+OR prediction
+OR predictive
+OR classification
+OR "artificial intelligence"
+)
+)
+AND PUBYEAR > 2018
+AND PUBYEAR < 2026
