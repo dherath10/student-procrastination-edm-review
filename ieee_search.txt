@@ -1,0 +1,24 @@
+(
+("All Metadata":"academic procrastination")
+OR
+("All Metadata":procrastination)
+)
+AND
+(
+"All Metadata":"machine learning"
+OR
+"All Metadata":"deep learning"
+OR
+"All Metadata":"educational data mining"
+OR
+"All Metadata":"learning analytics"
+OR
+"All Metadata":"artificial intelligence"
+)
+AND
+(
+"All Metadata":student
+OR
+"All Metadata":learner
+)
+Publication Year: 2019-2025

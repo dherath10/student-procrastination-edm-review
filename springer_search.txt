@@ -1,0 +1,21 @@
+(
+"academic procrastination"
+OR procrastination
+)
+AND
+(
+student
+OR learner
+OR undergraduate
+OR university
+)
+AND
+(
+"machine learning"
+OR "deep learning"
+OR "educational data mining"
+OR "learning analytics"
+OR prediction
+OR classification
+)
+Year: 2019-2025

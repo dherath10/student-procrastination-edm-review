@@ -1,0 +1,26 @@
+TS=(
+(
+"academic procrastination"
+OR procrastination
+)
+AND
+(
+student*
+OR learner*
+OR undergraduate*
+OR university student*
+)
+AND
+(
+"machine learning"
+OR "deep learning"
+OR "educational data mining"
+OR "learning analytics"
+OR prediction
+OR predictive
+OR classification
+OR "artificial intelligence"
+)
+)
+Timespan=2019-2025
+Indexes=SCI-EXPANDED, SSCI, ESCI
