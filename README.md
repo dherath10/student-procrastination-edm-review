@@ -6,7 +6,7 @@ Supplementary materials for the JEDM systematic review on machine learning for s
 
 ### Authors
 - Daminda Herath
-- Thanuja Ambegoda
+- Dr. Thanuja Ambegoda
 
 ## Description
 
